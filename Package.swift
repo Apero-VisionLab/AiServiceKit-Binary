@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AiServiceKit",
-            url: "https://github.com/AperoVN/AiServiceKit-Binary/releases/download/2.5.2/AiServiceKit.xcframework.zip",
-            checksum: "cd3af0f1a8c102944db1902019947eba4a5f305fc92b5ed6b84eab6a227c99dd"
+            url: "https://github.com/AperoVN/AiServiceKit-Binary/releases/download/2.5.3/AiServiceKit.xcframework.zip",
+            checksum: "6037e53090bc1ed9b6d8652e272a5182324548326fda605d7a7e170a256a9d36"
         )
     ]
 )
